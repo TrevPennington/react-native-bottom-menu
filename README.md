@@ -1,3 +1,3 @@
 # react-native-bottom-menu
 
-Project for https://www.trevorpennington.com/blog/react-native-bottom-menu blog
+Code base for React Native Bottom Menu blog https://www.trevorpennington.com/blog/react-native-bottom-menu
